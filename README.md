@@ -54,6 +54,7 @@ From [UIEffect v2.4.0](https://github.com/mob-sakai/UIEffect)
 * ![demo](https://user-images.githubusercontent.com/12690315/39131616-dcf7ea60-474a-11e8-8e20-f9e5bd8b3f5c.gif)
     * Just 1 draw call!
 
+[WebGL Demo](http://mob-sakai.github.io/DissolveEffectForUGUI)
 
 
 <br><br><br><br>
