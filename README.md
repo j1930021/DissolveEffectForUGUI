@@ -29,14 +29,23 @@ DissolveEffectForUGUI applies _dissolve-effect_ to uGUI element (Image, RawImage
 This will suppress extra draw calls and improve performance.
 
 * Parameters
-    * Dissolve factor
+    * Dissolve factor (inspector, script, animation)
+    * Edge width (inspector, script, animation)
+    * Edge color (inspector, script, animation)
+    * Edge softness (inspector, script, animation)
     * Noise pattern image (in material)
-    * Edge width (in material)
-    * Outer/inner edge color (in material)
-    * Outer/inner edge softness (in material)
 
 ![image](https://user-images.githubusercontent.com/12690315/39143377-b9e632c0-4768-11e8-9d26-717304df41fb.png)
 
+
+### New feature in v0.4.0
+
+From [UIEffect v2.4.0](https://github.com/mob-sakai/UIEffect)
+![v2.4.0](https://user-images.githubusercontent.com/12690315/40294019-a0bfb8aa-5d0e-11e8-8451-873502db6a99.gif)
+![editor](https://user-images.githubusercontent.com/12690315/40294212-9e1b1ce2-5d0f-11e8-88ce-78a8c0523dc2.png)
+
+* UIDissolve: Add color mode option.
+* UIDissolve: You can change the edge color, width, softness, color mode in inspector.
 
 
 <br><br><br><br>
